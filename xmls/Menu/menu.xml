@@ -1,63 +1,67 @@
 <games>
-    <game>
-        <name>Earth 2150 EftBP</name>
-        <language>
-            <name>English</name>
-            <version>
-                <name>Original</name>
-                <DownloadUrl>https://example.com/earth2150_eftbp_en_original.zip</DownloadUrl>
+    <game name="Earth 2150: Escape from the Blue Planet">
+        <language name="MultiLanguage">
+            <version name="v2.8.7.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
             </version>
-            <version>
-                <name>Expansion</name>
-                <DownloadUrl>https://example.com/earth2150_eftbp_en_expansion.zip</DownloadUrl>
-            </version>
-        </language>
-        <language>
-            <name>German</name>
-            <version>
-                <name>Original</name>
-                <DownloadUrl>https://example.com/earth2150_eftbp_de_original.zip</DownloadUrl>
-            </version>
-            <version>
-                <name>Expansion</name>
-                <DownloadUrl>https://example.com/earth2150_eftbp_de_expansion.zip</DownloadUrl>
-            </version>
-        </language>
-        <!-- Add other languages and versions as needed -->
+	</language>
+        <!-- Add more language options here -->
     </game>
-    <game>
-        <name>Earth 2150 TMP</name>
-        <language>
-            <name>English</name>
-            <version>
-                <name>Version 1</name>
-                <DownloadUrl>https://example.com/earth2150_tmp_en_v1.zip</DownloadUrl>
+    <game name="Earth 2150: The Moon Project">
+        <language name="English">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
             </version>
-            <version>
-                <name>Version 2</name>
-                <DownloadUrl>https://example.com/earth2150_tmp_en_v2.zip</DownloadUrl>
+	</language>
+        <language name="German">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211de.xml</DownloadUrl>
             </version>
         </language>
-        <language>
-            <name>German</name>
-            <version>
-                <name>Version 1</name>
-                <DownloadUrl>https://example.com/earth2150_tmp_de_v1.zip</DownloadUrl>
+        <language name="Polish">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211pl.xml</DownloadUrl>
             </version>
-            <!-- Add other versions as needed -->
         </language>
-        <!-- Add other languages as needed -->
+        <language name="Russian">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="French">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
+        <!-- Add more language options here -->
     </game>
-    <game>
-        <name>Earth 2150 LS</name>
-        <language>
-            <name>English</name>
-            <version>
-                <name>Version 1</name>
-                <DownloadUrl>https://example.com/earth2150_ls_en_v1.zip</DownloadUrl>
+    <game name="Earth 2150: Lost Souls">
+        <language name="English">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211en.xml</DownloadUrl>
             </version>
-            <!-- Add other versions as needed -->
+	</language>
+        <language name="German">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211de.xml</DownloadUrl>
+            </version>
         </language>
-        <!-- Add other languages as needed -->
+        <language name="Polish">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211pl.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="Russian">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="French">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
+        <!-- Add more language options here -->
     </game>
+    <!-- Add more games here -->
 </games>
