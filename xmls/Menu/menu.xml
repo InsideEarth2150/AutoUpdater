@@ -6,6 +6,15 @@
         <language name="German">
             <DownloadUrl>https://example.com/earth2150_eftbp_de.zip</DownloadUrl>
         </language>
+        <language name="Polish">
+            <DownloadUrl>https://example.com/earth2150_eftbp_pl.zip</DownloadUrl>
+        </language>
+        <language name="Russian">
+            <DownloadUrl>https://example.com/earth2150_eftbp_ru.zip</DownloadUrl>
+        </language>
+        <language name="French">
+            <DownloadUrl>https://example.com/earth2150_eftbp_fr.zip</DownloadUrl>
+        </language>
         <!-- Add more language options here -->
     </game>
     <game name="Earth 2150: The Moon Project">
@@ -15,6 +24,15 @@
         <language name="German">
             <DownloadUrl>https://example.com/earth2150_tmp_de.zip</DownloadUrl>
         </language>
+        <language name="Polish">
+            <DownloadUrl>https://example.com/earth2150_tmp_pl.zip</DownloadUrl>
+        </language>
+        <language name="Russian">
+            <DownloadUrl>https://example.com/earth2150_tmp_ru.zip</DownloadUrl>
+        </language>
+        <language name="French">
+            <DownloadUrl>https://example.com/earth2150_tmp_fr.zip</DownloadUrl>
+        </language>
         <!-- Add more language options here -->
     </game>
     <game name="Earth 2150: Lost Souls">
@@ -23,6 +41,15 @@
         </language>
         <language name="German">
             <DownloadUrl>https://example.com/earth2150_ls_de.zip</DownloadUrl>
+        </language>
+        <language name="Polish">
+            <DownloadUrl>https://example.com/earth2150_ls_pl.zip</DownloadUrl>
+        </language>
+        <language name="Russian">
+            <DownloadUrl>https://example.com/earth2150_ls_ru.zip</DownloadUrl>
+        </language>
+        <language name="French">
+            <DownloadUrl>https://example.com/earth2150_ls_fr.zip</DownloadUrl>
         </language>
         <!-- Add more language options here -->
     </game>
