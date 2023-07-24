@@ -55,6 +55,7 @@
                 <name>v2.2.1.1</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
             </version>
+		</language>
         <language>
             <name>German</name>
             <version>
