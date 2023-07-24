@@ -19,8 +19,10 @@
     </game>
     <game name="Earth 2150: The Moon Project">
         <language name="English">
-            <DownloadUrl>https://example.com/earth2150_tmp_en.zip</DownloadUrl>
-        </language>
+            <version name="2.2.1.1">
+                <DownloadUrl>https://example.com/earth2150_tmp_en.zip</DownloadUrl>
+            </version>
+	</language>
         <language name="German">
             <DownloadUrl>https://example.com/earth2150_tmp_de.zip</DownloadUrl>
         </language>
