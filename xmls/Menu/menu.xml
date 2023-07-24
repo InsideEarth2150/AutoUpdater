@@ -2,7 +2,7 @@
     <game>
         <name>Earth 2150: Escape from the Blue Planet</name>
         <language>
-            <name>English</name>
+            <name>Multilanguage</name>
             <version>
                 <name>v2.8.7.1</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
@@ -21,7 +21,7 @@
         </language>
         <language>
             <name>German</name>
-              <version>
+            <version>
                 <name>v2.2.1.1</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
             </version>
