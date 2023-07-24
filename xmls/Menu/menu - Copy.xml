@@ -1,22 +1,17 @@
 <games>
-    <game>
-	<name>Earth 2150: Escape from the Blue Planet</name>
-        <language>
-		<name>MultiLanguage</name>
-            	<version>
-			<name>v2.8.7.1</name>
-	                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
-   	         </version>
+    <game name="Earth 2150: Escape from the Blue Planet">
+        <language name="MultiLanguage">
+            <version name="v2.8.7.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
+            </version>
 	</language>
         <!-- Add more language options here -->
     </game>
-	<name>Earth 2150: The Moon Project</name>
-        <language>
-		<name>English</name>
-            	<version>
-			<name>v2.2.1.1</name>
-	                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
-   	         </version>
+    <game name="Earth 2150: The Moon Project">
+        <language name="English">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
+            </version>
 	</language>
         <language name="German">
             <version name="v2.2.1.1">
