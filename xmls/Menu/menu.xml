@@ -1,0 +1,30 @@
+<games>
+    <game name="Earth 2150: Escape from the Blue Planet">
+        <language name="English">
+            <DownloadUrl>https://example.com/earth2150_eftbp_en.zip</DownloadUrl>
+        </language>
+        <language name="German">
+            <DownloadUrl>https://example.com/earth2150_eftbp_de.zip</DownloadUrl>
+        </language>
+        <!-- Add more language options here -->
+    </game>
+    <game name="Earth 2150: The Moon Project">
+        <language name="English">
+            <DownloadUrl>https://example.com/earth2150_tmp_en.zip</DownloadUrl>
+        </language>
+        <language name="German">
+            <DownloadUrl>https://example.com/earth2150_tmp_de.zip</DownloadUrl>
+        </language>
+        <!-- Add more language options here -->
+    </game>
+    <game name="Earth 2150: Lost Souls">
+        <language name="English">
+            <DownloadUrl>https://example.com/earth2150_ls_en.zip</DownloadUrl>
+        </language>
+        <language name="German">
+            <DownloadUrl>https://example.com/earth2150_ls_de.zip</DownloadUrl>
+        </language>
+        <!-- Add more language options here -->
+    </game>
+    <!-- Add more games here -->
+</games>
