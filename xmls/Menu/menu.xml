@@ -8,7 +8,6 @@
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
             </version>
         </language>
-        <!-- Add other languages and versions as needed -->
     </game>
     <game>
         <name>Earth 2150: The Moon Project</name>
@@ -25,9 +24,28 @@
                 <name>v2.2.1.1</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
             </version>
-            <!-- Add other versions as needed -->
         </language>
-        <!-- Add other languages as needed -->
+        <language>
+            <name>Polish</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211pl.xml</DownloadUrl>
+            </version>
+        </language>
+        <language>
+            <name>Russian</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language>
+            <name>French</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
     </game>
     <game>
         <name>Earth 2150: Lost Souls</name>
@@ -35,10 +53,35 @@
             <name>English</name>
             <version>
                 <name>v2.2.1.1</name>
-                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
             </version>
-            <!-- Add other versions as needed -->
+        <language>
+            <name>German</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
+            </version>
         </language>
-        <!-- Add other languages as needed -->
+        <language>
+            <name>Polish</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211pl.xml</DownloadUrl>
+            </version>
+        </language>
+        <language>
+            <name>Russian</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language>
+            <name>French</name>
+            <version>
+                <name>v2.2.1.1</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
     </game>
 </games>
