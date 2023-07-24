@@ -12,6 +12,11 @@
     <game>
         <name>Earth 2150: The Moon Project</name>
         <language>
+            <name>Multilanguage</name>
+            <version>
+                <name>v2.1.1.0</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2110ml.xml</DownloadUrl>
+            </version>
             <name>English</name>
             <version>
                 <name>v2.2.1.1</name>
@@ -50,12 +55,17 @@
     <game>
         <name>Earth 2150: Lost Souls</name>
         <language>
+            <name>Multilanguage</name>
+            <version>
+                <name>v2.1.1.0</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2110ml.xml</DownloadUrl>
+            </version>
             <name>English</name>
             <version>
                 <name>v2.2.1.1</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
             </version>
-		</language>
+	</language>
         <language>
             <name>German</name>
             <version>
