@@ -18,6 +18,7 @@
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2110ml.xml</DownloadUrl>
             </language>
         </version>
+        <version>
             <name>v2.2.1.1</name>
             <language>
                 <name>English</name>
@@ -62,6 +63,7 @@
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2110ml.xml</DownloadUrl>
             </language>
         </version>
+        <version>
             <name>v2.2.1.1</name>
             <language>
                 <name>English</name>
