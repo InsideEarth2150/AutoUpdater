@@ -23,12 +23,20 @@
             <language>
                 <name>English</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>German</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>Polish</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211pl.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>Russian</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211ru.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>French</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211fr.xml</DownloadUrl>
             </language>
@@ -48,12 +56,20 @@
             <language>
                 <name>English</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>German</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211en.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>Polish</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211pl.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>Russian</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211ru.xml</DownloadUrl>
+            </language>
+            <language>
                 <name>French</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2211fr.xml</DownloadUrl>
             </language>
