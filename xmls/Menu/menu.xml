@@ -41,6 +41,13 @@
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211fr.xml</DownloadUrl>
             </language>
         </version>
+        <version>
+            <name>v2.2.1.2 (Alpha)</name>
+            <language>
+                <name>Multilanguage</name>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2212Aml.xml</DownloadUrl>
+            </language>
+        </version>
     </game>
     <game>
         <name>Earth 2150: Lost Souls</name>
