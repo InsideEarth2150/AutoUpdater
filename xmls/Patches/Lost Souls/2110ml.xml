@@ -1,9 +1,5 @@
 <urls>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/autoexec.con</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/LostSouls.exe</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/IeoModuleLoader.dll</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/ChangeLog-v211-en.txt</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/Modules/EarthFixes.ieo</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/Modules/EarthTmpExtensions.ieo</url>
-    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/2.1.1.0/WDFiles/Language211.wd</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/MultiLang/2.1.1.0/autoexec.con</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/MultiLang/2.1.1.0/TheMoonProject.exe</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/Lost%20Souls/Extracted/MultiLang/2.1.1.0/Change Log.txt</url>
 </urls>
