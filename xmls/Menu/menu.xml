@@ -4,7 +4,7 @@
         <version>
             <name>v2.8.7.1</name>
             <language>
-                <name>Multilanguage</name>
+                <name>Multi-language</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
             </language>
         </version>
@@ -14,7 +14,7 @@
         <version>
             <name>v2.1.1.0</name>
             <language>
-                <name>Multilanguage</name>
+                <name>Multi-language</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2110ml.xml</DownloadUrl>
             </language>
         </version>
@@ -47,7 +47,7 @@
         <version>
             <name>v2.1.1.0</name>
             <language>
-                <name>Multilanguage</name>
+                <name>Multi-language</name>
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Souls/2110ml.xml</DownloadUrl>
             </language>
         </version>

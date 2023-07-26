@@ -1,0 +1,67 @@
+<games>
+    <game name="Earth 2150: Escape from the Blue Planet">
+        <language name="MultiLanguage">
+            <version name="v2.8.7.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Escape%20from%20the%20Blue%20Planet/2871ml.xml</DownloadUrl>
+            </version>
+	</language>
+        <!-- Add more language options here -->
+    </game>
+    <game name="Earth 2150: The Moon Project">
+        <language name="English">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211en.xml</DownloadUrl>
+            </version>
+	</language>
+        <language name="German">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211de.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="Polish">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211pl.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="Russian">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="French">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
+        <!-- Add more language options here -->
+    </game>
+    <game name="Earth 2150: Lost Souls">
+        <language name="English">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211en.xml</DownloadUrl>
+            </version>
+	</language>
+        <language name="German">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211de.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="Polish">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211pl.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="Russian">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211ru.xml</DownloadUrl>
+            </version>
+        </language>
+        <language name="French">
+            <version name="v2.2.1.1">
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/Lost%20Soutls/2211fr.xml</DownloadUrl>
+            </version>
+        </language>
+        <!-- Add more language options here -->
+    </game>
+    <!-- Add more games here -->
+</games>
