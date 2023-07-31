@@ -73,7 +73,7 @@
             <name>App - Earth Crash Logger</name>
             <language>
                 <name>Multilanguage</name>
-                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthCrashLogger/CrashLogger2.3.xml</DownloadUrl>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthCrashLogger/EarthCrashLogger2.3.xml</DownloadUrl>
             </language>
         </version>
     </game>
