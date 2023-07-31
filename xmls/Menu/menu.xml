@@ -59,14 +59,14 @@
             <name>App - Earth Extentions</name>
             <language>
                 <name>Multilanguage</name>
-                <DownloadUrl></DownloadUrl>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthExtentions/Latest.xml</DownloadUrl>
             </language>
         </version>
         <version>
             <name>App - Earth Extentions ini</name>
             <language>
                 <name>Multilanguage</name>
-                <DownloadUrl></DownloadUrl>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthExtentions/ini.xml</DownloadUrl>
             </language>
         </version>
         <version>
