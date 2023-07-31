@@ -70,10 +70,10 @@
             </language>
         </version>
         <version>
-            <name>App - Crash Logger</name>
+            <name>App - Earth Crash Logger</name>
             <language>
                 <name>Multilanguage</name>
-                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthExtentions/ini.xml</DownloadUrl>
+                <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Applications/EarthCrashLogger/CrashLogger2.3.xml</DownloadUrl>
             </language>
         </version>
     </game>
