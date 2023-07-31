@@ -1,0 +1,23 @@
+<urls>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/autoexec.con</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/TheMoonProject.exe</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/IeoModuleLoader.dll</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/ChangeLog-v221-en.txt</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/Modules/EarthFixes.ieo</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/Modules/EarthTmpExtensions.ieo</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Language221TMPen.wd</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update001.wd</url>
+    <url>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update221.wd</url>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Language21.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update21.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2212.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2213.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2214.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2215.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2216.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2217.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2218.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update2219.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update222*.wd</delete>
+    <delete>https://raw.githubusercontent.com/InsideEarth2150/Patches/main/The%20Moon%20Project/Extracted/English/2.2.1.1/WDFiles/Update223*.wd</delete>
+</urls>

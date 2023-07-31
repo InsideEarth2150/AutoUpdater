@@ -48,6 +48,34 @@
                 <DownloadUrl>https://raw.githubusercontent.com/InsideEarth2150/AutoUpdater/main/xmls/Patches/The%20Moon%20Project/2212Aml.xml</DownloadUrl>
             </language>
         </version>
+        <version>
+            <name>Levels (Maps) - NOT WORKING</name>
+            <language>
+                <name>Multilanguage</name>
+                <DownloadUrl></DownloadUrl>
+            </language>
+        </version>
+        <version>
+            <name>App - Earth Extentions</name>
+            <language>
+                <name>Multilanguage</name>
+                <DownloadUrl></DownloadUrl>
+            </language>
+        </version>
+        <version>
+            <name>App - Earth Extentions ini</name>
+            <language>
+                <name>Multilanguage</name>
+                <DownloadUrl></DownloadUrl>
+            </language>
+        </version>
+        <version>
+            <name>App - Crash Logger</name>
+            <language>
+                <name>Multilanguage</name>
+                <DownloadUrl></DownloadUrl>
+            </language>
+        </version>
     </game>
     <game>
         <name>Earth 2150: Lost Souls</name>
